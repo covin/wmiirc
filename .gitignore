@@ -1,4 +1,6 @@
 wmiirc.log
 config.dump
+config.yaml
 session.dump
-history/
+history*
+rumai/
